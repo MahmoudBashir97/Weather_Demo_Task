@@ -1,0 +1,36 @@
+{
+  "message":"cities",
+  "code":200,
+  "cities":[
+    {"name":"cairo"
+    },
+    {"name":"london"
+    },
+    {"name":"rome"
+    },
+    {"name":"madrid"
+    },
+    {"name":"riyadh"
+    },
+    {"name":"dubai"
+    },
+    {"name":"paris"
+    },
+    {"name":"munich"
+    },
+    {"name":"washington"
+    },
+    {"name":"new york"
+    },
+    {"name":"alexandria"
+    },
+    {"name":"zagazig"
+    },
+    {"name":"ismailia"
+    },
+    {"name":"moscow"
+    },
+    {"name":"sydney"
+    }
+  ]
+}
