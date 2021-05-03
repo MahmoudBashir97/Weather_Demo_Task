@@ -1,0 +1,8 @@
+
+Fkotlin:S1481ğ"&Remove this unused "n" local variable.(¦¦³Ğ8‘¡¡Ó’/
+>kotlin:S125"Remove this commented out code.(“ƒ8‘¡¡Ó’/
+skotlin:S1192Í"NDefine a constant instead of duplicating this literal "trackingLoc :" 3 times.(û®ççşÿÿÿÿ8¯—¹Ó’/
+xkotlin:S101*"URename class "MainHome_Fragment" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ââşÍÿÿÿÿÿ8¿ÏúĞ’/
+=kotlin:S125p"Remove this commented out code.(ä”´»8‘¡¡Ó’/
+Bkotlin:S125N"Remove this commented out code.(ø˜É²ıÿÿÿÿ8ãš¿Ù’/
+Wkotlin:S1144´"7Remove this unused private "getForecastWeather" method.(éº¨8ãš¿Ù’/
